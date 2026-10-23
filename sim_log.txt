@@ -1,0 +1,9 @@
+../../src/ieee2008/numeric_std-body.vhdl:3036:7:@0ms:(assertion warning): NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+tb_cpu.vhd:57:17:@16ns:(report note): Cycle 1 OK
+tb_cpu.vhd:57:17:@26ns:(report note): Cycle 2 OK
+tb_cpu.vhd:57:17:@36ns:(report note): Cycle 3 OK
+tb_cpu.vhd:57:17:@46ns:(report note): Cycle 4 OK
+tb_cpu.vhd:57:17:@56ns:(report note): Cycle 5 OK
+tb_cpu.vhd:57:17:@66ns:(report note): Cycle 6 OK
+tb_cpu.vhd:57:17:@76ns:(report note): Cycle 7 OK
+tb_cpu.vhd:62:13:@76ns:(report note): PASS: all cycles match Appendix B (Set 0).
